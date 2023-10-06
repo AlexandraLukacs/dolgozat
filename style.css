@@ -1,0 +1,70 @@
+body {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 10pt;
+	background-image: url("kepek/black.png");
+	text-align: justify;
+	margin: 0px;
+}
+
+#tarolo{
+	width: 90%;
+	max-width: 900px;
+	background-color: rgb(255,255,255);
+	margin: auto;
+}
+
+.jobb{
+	width: 200px;
+	float: right;
+	margin: 20px;
+}
+
+.game{
+	width: 100%;
+}
+
+#nav a{
+	color: white;
+	font-weight: bold;
+	font-size: 10px;
+	padding: 10px;
+	display: inline-block;
+	text-indent: 10px;
+	text-align: center;
+}
+
+#nav a:hover{
+	background-color: orange;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	text-align: center;
+	border: 1px white solid;
+}
+
+h1{
+	text-indent: 20px;
+}
+
+il{
+	list-style-type: square;
+}
+
+.torles{
+	clear: both;
+}
+
+#nav{
+	background-color: darkgray;
+}
+
+#jog{
+	background-color: orange;
+	text-align: center;
+}
+
+.szoveg{
+	margin: 20px;
+}
